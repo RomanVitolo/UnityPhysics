@@ -1,0 +1,3268 @@
+fileFormatVersion: 2
+guid: ac6efc7675af434438c82245a984e7ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9140331656562128620
+    second: SpriteSheetGolpePelota_0
+  - first:
+      213: 1671567721351428533
+    second: SpriteSheetGolpePelota_1
+  - first:
+      213: -2846577431232921566
+    second: SpriteSheetGolpePelota_2
+  - first:
+      213: 7498732542221508489
+    second: SpriteSheetGolpePelota_3
+  - first:
+      213: 8646595401521473886
+    second: SpriteSheetGolpePelota_4
+  - first:
+      213: 229598143663754572
+    second: SpriteSheetGolpePelota_5
+  - first:
+      213: -1406630341668964508
+    second: SpriteSheetGolpePelota_6
+  - first:
+      213: 8761786553712373596
+    second: SpriteSheetGolpePelota_7
+  - first:
+      213: 2218863676123335658
+    second: SpriteSheetGolpePelota_8
+  - first:
+      213: -2807886501032787615
+    second: SpriteSheetGolpePelota_9
+  - first:
+      213: 1741911769651673869
+    second: SpriteSheetGolpePelota_10
+  - first:
+      213: 7712986860752351305
+    second: SpriteSheetGolpePelota_11
+  - first:
+      213: -2117030138108536240
+    second: SpriteSheetGolpePelota_12
+  - first:
+      213: -7892020964364303780
+    second: SpriteSheetGolpePelota_13
+  - first:
+      213: 4869861402771682892
+    second: SpriteSheetGolpePelota_14
+  - first:
+      213: 4796214010624751508
+    second: SpriteSheetGolpePelota_15
+  - first:
+      213: 6605707357042743076
+    second: SpriteSheetGolpePelota_16
+  - first:
+      213: 31086360193456127
+    second: SpriteSheetGolpePelota_17
+  - first:
+      213: 1540468218047072765
+    second: SpriteSheetGolpePelota_18
+  - first:
+      213: 7858707794579295354
+    second: SpriteSheetGolpePelota_19
+  - first:
+      213: 672173140214615928
+    second: SpriteSheetGolpePelota_20
+  - first:
+      213: -8719348419216529006
+    second: SpriteSheetGolpePelota_21
+  - first:
+      213: -919612456777567529
+    second: SpriteSheetGolpePelota_22
+  - first:
+      213: -9082151698493000919
+    second: SpriteSheetGolpePelota_23
+  - first:
+      213: 8151831507950847260
+    second: SpriteSheetGolpePelota_24
+  - first:
+      213: 6239318009989254899
+    second: SpriteSheetGolpePelota_25
+  - first:
+      213: 4190722465325344776
+    second: SpriteSheetGolpePelota_26
+  - first:
+      213: -2698946903507791885
+    second: SpriteSheetGolpePelota_27
+  - first:
+      213: 5788972964281046101
+    second: SpriteSheetGolpePelota_28
+  - first:
+      213: -2617499937634743416
+    second: SpriteSheetGolpePelota_29
+  - first:
+      213: 2862740445927552072
+    second: SpriteSheetGolpePelota_30
+  - first:
+      213: -1622651577898616836
+    second: SpriteSheetGolpePelota_31
+  - first:
+      213: -6947168610396503630
+    second: SpriteSheetGolpePelota_32
+  - first:
+      213: 5708721734862022568
+    second: SpriteSheetGolpePelota_33
+  - first:
+      213: 1029069448108623340
+    second: SpriteSheetGolpePelota_34
+  - first:
+      213: -735688751379885839
+    second: SpriteSheetGolpePelota_35
+  - first:
+      213: 6854464307871288461
+    second: SpriteSheetGolpePelota_36
+  - first:
+      213: -8697789680353065083
+    second: SpriteSheetGolpePelota_37
+  - first:
+      213: 2213196352211987
+    second: SpriteSheetGolpePelota_38
+  - first:
+      213: 8087811942768302045
+    second: SpriteSheetGolpePelota_39
+  - first:
+      213: 2395452955633464187
+    second: SpriteSheetGolpePelota_40
+  - first:
+      213: -8416165937279606423
+    second: SpriteSheetGolpePelota_41
+  - first:
+      213: -6306931408580403305
+    second: SpriteSheetGolpePelota_42
+  - first:
+      213: -7963322543964223103
+    second: SpriteSheetGolpePelota_43
+  - first:
+      213: 4311966666186078425
+    second: SpriteSheetGolpePelota_44
+  - first:
+      213: -8026803130479511991
+    second: SpriteSheetGolpePelota_45
+  - first:
+      213: -8291941851519631351
+    second: SpriteSheetGolpePelota_46
+  - first:
+      213: 2425565034540621870
+    second: SpriteSheetGolpePelota_47
+  - first:
+      213: 544061897907025389
+    second: SpriteSheetGolpePelota_48
+  - first:
+      213: -6210443572916996357
+    second: SpriteSheetGolpePelota_49
+  - first:
+      213: 2141305005397873540
+    second: SpriteSheetGolpePelota_50
+  - first:
+      213: 256116534984672458
+    second: SpriteSheetGolpePelota_51
+  - first:
+      213: 1221857536885375871
+    second: SpriteSheetGolpePelota_52
+  - first:
+      213: 2990484629062012755
+    second: SpriteSheetGolpePelota_53
+  - first:
+      213: 4527994027243457497
+    second: SpriteSheetGolpePelota_54
+  - first:
+      213: -4216816417170168226
+    second: SpriteSheetGolpePelota_55
+  - first:
+      213: 1474395801468598074
+    second: SpriteSheetGolpePelota_56
+  - first:
+      213: -5214060043812440509
+    second: SpriteSheetGolpePelota_57
+  - first:
+      213: -2554545651512447822
+    second: SpriteSheetGolpePelota_58
+  - first:
+      213: -2452699325928834391
+    second: SpriteSheetGolpePelota_59
+  - first:
+      213: -482640039884341662
+    second: SpriteSheetGolpePelota_60
+  - first:
+      213: -6036401227977598250
+    second: SpriteSheetGolpePelota_61
+  - first:
+      213: 8448035069864056416
+    second: SpriteSheetGolpePelota_62
+  - first:
+      213: 8643348618770399146
+    second: SpriteSheetGolpePelota_63
+  - first:
+      213: 4314872198158591755
+    second: SpriteSheetGolpePelota_64
+  - first:
+      213: -5880746315894885030
+    second: SpriteSheetGolpePelota_65
+  - first:
+      213: -3504400788904893595
+    second: SpriteSheetGolpePelota_66
+  - first:
+      213: 3895634838636962275
+    second: SpriteSheetGolpePelota_67
+  - first:
+      213: -5429115273444216461
+    second: SpriteSheetGolpePelota_68
+  - first:
+      213: 7561209811726583253
+    second: SpriteSheetGolpePelota_69
+  - first:
+      213: 4065408841139857799
+    second: SpriteSheetGolpePelota_70
+  - first:
+      213: -637836425661153681
+    second: SpriteSheetGolpePelota_71
+  - first:
+      213: 129510438946778497
+    second: SpriteSheetGolpePelota_72
+  - first:
+      213: 7824864514910012292
+    second: SpriteSheetGolpePelota_73
+  - first:
+      213: 3115005066693832549
+    second: SpriteSheetGolpePelota_74
+  - first:
+      213: -6215044422918782407
+    second: SpriteSheetGolpePelota_75
+  - first:
+      213: 555228472029521526
+    second: SpriteSheetGolpePelota_76
+  - first:
+      213: -5891999170675685882
+    second: SpriteSheetGolpePelota_77
+  - first:
+      213: 2488946714651262705
+    second: SpriteSheetGolpePelota_78
+  - first:
+      213: -5211252420703942695
+    second: SpriteSheetGolpePelota_79
+  - first:
+      213: -7054380317615166146
+    second: SpriteSheetGolpePelota_80
+  - first:
+      213: -4301148132866530289
+    second: SpriteSheetGolpePelota_81
+  - first:
+      213: 7496413089381570095
+    second: SpriteSheetGolpePelota_82
+  - first:
+      213: 2940814592083742113
+    second: SpriteSheetGolpePelota_83
+  - first:
+      213: 4945384536293209093
+    second: SpriteSheetGolpePelota_84
+  - first:
+      213: -3517983138613711177
+    second: SpriteSheetGolpePelota_85
+  - first:
+      213: -9144883390195550110
+    second: SpriteSheetGolpePelota_86
+  - first:
+      213: 8692931527351578978
+    second: SpriteSheetGolpePelota_87
+  - first:
+      213: 8379062665818308390
+    second: SpriteSheetGolpePelota_88
+  - first:
+      213: -9017751898988927140
+    second: SpriteSheetGolpePelota_89
+  - first:
+      213: -7177921277881741908
+    second: SpriteSheetGolpePelota_90
+  - first:
+      213: 3227198780228373110
+    second: SpriteSheetGolpePelota_91
+  - first:
+      213: 3390595251386524595
+    second: SpriteSheetGolpePelota_92
+  - first:
+      213: -7150430346093022330
+    second: SpriteSheetGolpePelota_93
+  - first:
+      213: -7947212731782568885
+    second: SpriteSheetGolpePelota_94
+  - first:
+      213: 2915155621668669079
+    second: SpriteSheetGolpePelota_95
+  - first:
+      213: -3859235573153553734
+    second: SpriteSheetGolpePelota_96
+  - first:
+      213: -7639692098514932580
+    second: SpriteSheetGolpePelota_97
+  - first:
+      213: -5342958621844442164
+    second: SpriteSheetGolpePelota_98
+  - first:
+      213: -1764004164289630317
+    second: SpriteSheetGolpePelota_99
+  - first:
+      213: -8542012808447583844
+    second: SpriteSheetGolpePelota_100
+  - first:
+      213: -4888253863955259396
+    second: SpriteSheetGolpePelota_101
+  - first:
+      213: -9209417794955730850
+    second: SpriteSheetGolpePelota_102
+  - first:
+      213: 5586368927235391121
+    second: SpriteSheetGolpePelota_103
+  - first:
+      213: 4128045513085725138
+    second: SpriteSheetGolpePelota_104
+  - first:
+      213: -4832685531041329899
+    second: SpriteSheetGolpePelota_105
+  - first:
+      213: -1282385407470249103
+    second: SpriteSheetGolpePelota_106
+  - first:
+      213: -1855200364657007648
+    second: SpriteSheetGolpePelota_107
+  - first:
+      213: 2535726887266183952
+    second: SpriteSheetGolpePelota_108
+  - first:
+      213: -865076956317547075
+    second: SpriteSheetGolpePelota_109
+  - first:
+      213: -7817546641477725873
+    second: SpriteSheetGolpePelota_110
+  - first:
+      213: 2555509454216210555
+    second: SpriteSheetGolpePelota_111
+  - first:
+      213: 8434905896310403359
+    second: SpriteSheetGolpePelota_112
+  - first:
+      213: 4455248877271568728
+    second: SpriteSheetGolpePelota_113
+  - first:
+      213: 4606463325173342135
+    second: SpriteSheetGolpePelota_114
+  - first:
+      213: -7301557362720007508
+    second: SpriteSheetGolpePelota_115
+  - first:
+      213: 3367500197349563066
+    second: SpriteSheetGolpePelota_116
+  - first:
+      213: -6616690972587925427
+    second: SpriteSheetGolpePelota_117
+  - first:
+      213: 1998971900626460009
+    second: SpriteSheetGolpePelota_118
+  - first:
+      213: 7570653719038835237
+    second: SpriteSheetGolpePelota_0
+  - first:
+      213: -4296366928000072307
+    second: SpriteSheetGolpePelota_1
+  - first:
+      213: -4245842789720092224
+    second: SpriteSheetGolpePelota_2
+  - first:
+      213: 2545029979640808827
+    second: SpriteSheetGolpePelota_3
+  - first:
+      213: 4180065406936740337
+    second: SpriteSheetGolpePelota_4
+  - first:
+      213: 5086528153518276516
+    second: SpriteSheetGolpePelota_5
+  - first:
+      213: -3857337149144810747
+    second: SpriteSheetGolpePelota_6
+  - first:
+      213: 6848178740602021345
+    second: SpriteSheetGolpePelota_7
+  - first:
+      213: 3526869121687434370
+    second: SpriteSheetGolpePelota_8
+  - first:
+      213: -7912082281504203718
+    second: SpriteSheetGolpePelota_9
+  - first:
+      213: 7905347916097670921
+    second: SpriteSheetGolpePelota_10
+  - first:
+      213: 5857530513981179333
+    second: SpriteSheetGolpePelota_11
+  - first:
+      213: 5119297607587763321
+    second: SpriteSheetGolpePelota_12
+  - first:
+      213: 7097124583230225011
+    second: SpriteSheetGolpePelota_13
+  - first:
+      213: 34853877181449685
+    second: SpriteSheetGolpePelota_14
+  - first:
+      213: 6814155707973274013
+    second: SpriteSheetGolpePelota_15
+  - first:
+      213: -5906370601452356321
+    second: SpriteSheetGolpePelota_16
+  - first:
+      213: -4474506832377410935
+    second: SpriteSheetGolpePelota_17
+  - first:
+      213: 283359440845083298
+    second: SpriteSheetGolpePelota_18
+  - first:
+      213: -3345586135797068354
+    second: SpriteSheetGolpePelota_19
+  - first:
+      213: -4870635347050632687
+    second: SpriteSheetGolpePelota_20
+  - first:
+      213: 589601142502063609
+    second: SpriteSheetGolpePelota_21
+  - first:
+      213: -5122734746783434402
+    second: SpriteSheetGolpePelota_22
+  - first:
+      213: 249909505688144111
+    second: SpriteSheetGolpePelota_23
+  - first:
+      213: 4412124228630341483
+    second: SpriteSheetGolpePelota_24
+  - first:
+      213: -2001651938074029888
+    second: SpriteSheetGolpePelota_25
+  - first:
+      213: -2981045140911765483
+    second: SpriteSheetGolpePelota_26
+  - first:
+      213: 3136315764754440421
+    second: SpriteSheetGolpePelota_27
+  - first:
+      213: -5772809694339110811
+    second: SpriteSheetGolpePelota_28
+  - first:
+      213: -6032050638953368991
+    second: SpriteSheetGolpePelota_29
+  - first:
+      213: 5028354777591896335
+    second: SpriteSheetGolpePelota_30
+  - first:
+      213: 2320755815420340451
+    second: SpriteSheetGolpePelota_31
+  - first:
+      213: -3475818735151883315
+    second: SpriteSheetGolpePelota_32
+  - first:
+      213: -1756883613472962656
+    second: SpriteSheetGolpePelota_33
+  - first:
+      213: -7803258118861816881
+    second: SpriteSheetGolpePelota_34
+  - first:
+      213: 9006836093909167718
+    second: SpriteSheetGolpePelota_35
+  - first:
+      213: -7667350925161197232
+    second: SpriteSheetGolpePelota_36
+  - first:
+      213: 7385984346163752603
+    second: SpriteSheetGolpePelota_37
+  - first:
+      213: -5730965147277167834
+    second: SpriteSheetGolpePelota_38
+  - first:
+      213: 5154048949468612813
+    second: SpriteSheetGolpePelota_39
+  - first:
+      213: 2869280586468713017
+    second: SpriteSheetGolpePelota_40
+  - first:
+      213: 6679865980401565607
+    second: SpriteSheetGolpePelota_41
+  - first:
+      213: -5651478740583462092
+    second: SpriteSheetGolpePelota_42
+  - first:
+      213: 4019208115649439150
+    second: SpriteSheetGolpePelota_43
+  - first:
+      213: -2295612025388255390
+    second: SpriteSheetGolpePelota_44
+  - first:
+      213: -6229285422203258766
+    second: SpriteSheetGolpePelota_45
+  - first:
+      213: 7761683320785572054
+    second: SpriteSheetGolpePelota_46
+  - first:
+      213: -863931101960271600
+    second: SpriteSheetGolpePelota_47
+  - first:
+      213: 6883975099748347366
+    second: SpriteSheetGolpePelota_48
+  - first:
+      213: 9199477864249971105
+    second: SpriteSheetGolpePelota_49
+  - first:
+      213: 6783551415321919700
+    second: SpriteSheetGolpePelota_50
+  - first:
+      213: 3068497567274429705
+    second: SpriteSheetGolpePelota_51
+  - first:
+      213: 4069539934530247181
+    second: SpriteSheetGolpePelota_52
+  - first:
+      213: 5698957113198142652
+    second: SpriteSheetGolpePelota_53
+  - first:
+      213: -8921969538833213566
+    second: SpriteSheetGolpePelota_54
+  - first:
+      213: -5523250041234274543
+    second: SpriteSheetGolpePelota_55
+  - first:
+      213: 8822511544616935219
+    second: SpriteSheetGolpePelota_56
+  - first:
+      213: -1379387342878528545
+    second: SpriteSheetGolpePelota_57
+  - first:
+      213: -6382501598945821629
+    second: SpriteSheetGolpePelota_58
+  - first:
+      213: 8438791785569050980
+    second: SpriteSheetGolpePelota_59
+  - first:
+      213: 7146280422040510816
+    second: SpriteSheetGolpePelota_60
+  - first:
+      213: 1359204683915467185
+    second: SpriteSheetGolpePelota_61
+  - first:
+      213: 7451146245101902191
+    second: SpriteSheetGolpePelota_62
+  - first:
+      213: 3190397655060376684
+    second: SpriteSheetGolpePelota_63
+  - first:
+      213: -773332525913726722
+    second: SpriteSheetGolpePelota_64
+  - first:
+      213: -5053240932974621462
+    second: SpriteSheetGolpePelota_65
+  - first:
+      213: 7095222768557425851
+    second: SpriteSheetGolpePelota_66
+  - first:
+      213: -6645763324370216101
+    second: SpriteSheetGolpePelota_67
+  - first:
+      213: -3751532211080928819
+    second: SpriteSheetGolpePelota_68
+  - first:
+      213: 1265068546652138677
+    second: SpriteSheetGolpePelota_69
+  - first:
+      213: 3685998436817754704
+    second: SpriteSheetGolpePelota_70
+  - first:
+      213: -7060185133048004791
+    second: SpriteSheetGolpePelota_71
+  - first:
+      213: 3024430947979728746
+    second: SpriteSheetGolpePelota_72
+  - first:
+      213: -8906546151066172596
+    second: SpriteSheetGolpePelota_73
+  - first:
+      213: -4833318297506299565
+    second: SpriteSheetGolpePelota_74
+  - first:
+      213: 7275598495300221242
+    second: SpriteSheetGolpePelota_75
+  - first:
+      213: 3258340087093520976
+    second: SpriteSheetGolpePelota_76
+  - first:
+      213: 3689534746288655754
+    second: SpriteSheetGolpePelota_77
+  - first:
+      213: -8851148485957266809
+    second: SpriteSheetGolpePelota_78
+  - first:
+      213: 8706738243770196010
+    second: SpriteSheetGolpePelota_79
+  - first:
+      213: 5662075525411207188
+    second: SpriteSheetGolpePelota_80
+  - first:
+      213: 8282750614952782988
+    second: SpriteSheetGolpePelota_81
+  - first:
+      213: 1271251443625251698
+    second: SpriteSheetGolpePelota_82
+  - first:
+      213: 5504962761682304210
+    second: SpriteSheetGolpePelota_83
+  - first:
+      213: 4762466735205656255
+    second: SpriteSheetGolpePelota_84
+  - first:
+      213: 8475394717971998417
+    second: SpriteSheetGolpePelota_85
+  - first:
+      213: -5735831219072317516
+    second: SpriteSheetGolpePelota_86
+  - first:
+      213: -5106034749880154679
+    second: SpriteSheetGolpePelota_87
+  - first:
+      213: 365265326360556116
+    second: SpriteSheetGolpePelota_88
+  - first:
+      213: -1137584359520423092
+    second: SpriteSheetGolpePelota_89
+  - first:
+      213: 4202422059202587444
+    second: SpriteSheetGolpePelota_90
+  - first:
+      213: 8972969795143740873
+    second: SpriteSheetGolpePelota_91
+  - first:
+      213: -7836167895932303089
+    second: SpriteSheetGolpePelota_92
+  - first:
+      213: 5131342786609675224
+    second: SpriteSheetGolpePelota_93
+  - first:
+      213: -1481728297119097933
+    second: SpriteSheetGolpePelota_94
+  - first:
+      213: -1790957724977287720
+    second: SpriteSheetGolpePelota_95
+  - first:
+      213: 6243370784657945545
+    second: SpriteSheetGolpePelota_96
+  - first:
+      213: 4623251148454370812
+    second: SpriteSheetGolpePelota_97
+  - first:
+      213: 2046726082485097940
+    second: SpriteSheetGolpePelota_98
+  - first:
+      213: -8648771305327850487
+    second: SpriteSheetGolpePelota_99
+  - first:
+      213: -1221473848756493255
+    second: SpriteSheetGolpePelota_100
+  - first:
+      213: 100461715514824457
+    second: SpriteSheetGolpePelota_101
+  - first:
+      213: -3539769907033620972
+    second: SpriteSheetGolpePelota_102
+  - first:
+      213: 3685468900370001572
+    second: SpriteSheetGolpePelota_103
+  - first:
+      213: -6809821109673288539
+    second: SpriteSheetGolpePelota_104
+  - first:
+      213: 3268286329209058862
+    second: SpriteSheetGolpePelota_105
+  - first:
+      213: 2009062253817462941
+    second: SpriteSheetGolpePelota_106
+  - first:
+      213: -6645458050328456701
+    second: SpriteSheetGolpePelota_107
+  - first:
+      213: -3364959684062651702
+    second: SpriteSheetGolpePelota_108
+  - first:
+      213: -53354447787227323
+    second: SpriteSheetGolpePelota_109
+  - first:
+      213: -2732179722791690809
+    second: SpriteSheetGolpePelota_110
+  - first:
+      213: 486161676424113150
+    second: SpriteSheetGolpePelota_111
+  - first:
+      213: 2240756602143983533
+    second: SpriteSheetGolpePelota_112
+  - first:
+      213: -6185232788821015159
+    second: SpriteSheetGolpePelota_113
+  - first:
+      213: 3379573617144363538
+    second: SpriteSheetGolpePelota_114
+  - first:
+      213: 2441891690561716008
+    second: SpriteSheetGolpePelota_115
+  - first:
+      213: 8951294878841488045
+    second: SpriteSheetGolpePelota_116
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 7854
+        width: 244
+        height: 312
+      alignment: 9
+      pivot: {x: 0.27776456, y: 0.9580391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced4347a90915e54c92b1e280fdf33a3
+      internalID: -9140331656562128620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 7850
+        width: 240
+        height: 316
+      alignment: 9
+      pivot: {x: 0.2946265, y: 0.9476581}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d414d39e711b9449605138b2d431a7
+      internalID: 1671567721351428533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_2
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 7842
+        width: 232
+        height: 320
+      alignment: 9
+      pivot: {x: 0.31356496, y: 0.9490143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e96653888182f4fa145cc5ea7d31fe
+      internalID: -2846577431232921566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_3
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 7838
+        width: 224
+        height: 320
+      alignment: 9
+      pivot: {x: 0.31685638, y: 0.9484558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001520c439e77d244b6895223d29a13d
+      internalID: 7498732542221508489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_4
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 7830
+        width: 224
+        height: 328
+      alignment: 9
+      pivot: {x: 0.35347584, y: 0.9378871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbc20cc5660f784199cc4d73df20adf
+      internalID: 8646595401521473886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_5
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 7826
+        width: 220
+        height: 328
+      alignment: 9
+      pivot: {x: 0.4013228, y: 0.93662614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5232f80540fca2e41aa9d65c3078f1ab
+      internalID: 229598143663754572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_6
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 7818
+        width: 220
+        height: 332
+      alignment: 9
+      pivot: {x: 0.4326172, y: 0.9358675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abfe09b23eef3948a10aaf3415d8c65
+      internalID: -1406630341668964508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_7
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 7814
+        width: 220
+        height: 336
+      alignment: 9
+      pivot: {x: 0.4540605, y: 0.92647296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc38bcb756a398429c1d8c3168ab288
+      internalID: 8761786553712373596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_8
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 7806
+        width: 216
+        height: 340
+      alignment: 9
+      pivot: {x: 0.4865361, y: 0.92757785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c64b50822457d64c8cb2af42cefb1bf
+      internalID: 2218863676123335658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_9
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 7802
+        width: 216
+        height: 340
+      alignment: 9
+      pivot: {x: 0.51545995, y: 0.9267363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6da1150fbd0ff47bc3d8cd46439425
+      internalID: -2807886501032787615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 7362
+        width: 212
+        height: 344
+      alignment: 9
+      pivot: {x: 0.5542966, y: 0.9159702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3049d2c359f7842a8d2e7731f6b8e2
+      internalID: 1741911769651673869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 7355
+        width: 212
+        height: 347
+      alignment: 9
+      pivot: {x: 0.585235, y: 0.9203904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3939c3fbbe651234abbe3bfa07beef99
+      internalID: 7712986860752351305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_12
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 7350
+        width: 208
+        height: 352
+      alignment: 9
+      pivot: {x: 0.6226355, y: 0.9150127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c854fc555b08eed47970cd3d80943eea
+      internalID: -2117030138108536240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_13
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 7350
+        width: 204
+        height: 348
+      alignment: 9
+      pivot: {x: 0.68659705, y: 0.9110949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075da3557649b064980c45190112a059
+      internalID: -7892020964364303780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_14
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 7346
+        width: 204
+        height: 348
+      alignment: 9
+      pivot: {x: 0.7115012, y: 0.91177404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aab86cc4c725b4db6e8f92ef20a349
+      internalID: 4869861402771682892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_15
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 7342
+        width: 207
+        height: 352
+      alignment: 9
+      pivot: {x: 0.73291725, y: 0.9032454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce911a5e49c81a446991e1a9c49fd66b
+      internalID: 4796214010624751508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_16
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 7338
+        width: 212
+        height: 352
+      alignment: 9
+      pivot: {x: 0.76046234, y: 0.9050751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e88843d6d298947bf8d420118104e9
+      internalID: 6605707357042743076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_17
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 7338
+        width: 220
+        height: 352
+      alignment: 9
+      pivot: {x: 0.7624245, y: 0.89694905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75050a3b209d58a449421960b542df06
+      internalID: 31086360193456127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 6854
+        width: 224
+        height: 352
+      alignment: 9
+      pivot: {x: 0.7738733, y: 0.89569783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92a633cce6d6f04a81cc51786d7bb1e
+      internalID: 1540468218047072765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_19
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 6850
+        width: 228
+        height: 356
+      alignment: 9
+      pivot: {x: 0.78828055, y: 0.88883096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2fc2b919c9ab144825f3f7be9860e4
+      internalID: 7858707794579295354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_20
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 6846
+        width: 236
+        height: 360
+      alignment: 9
+      pivot: {x: 0.7846752, y: 0.8826294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33f2cba67de84048bb6911f28c226a4
+      internalID: 672173140214615928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_21
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 6846
+        width: 240
+        height: 356
+      alignment: 9
+      pivot: {x: 0.79269254, y: 0.8878311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8179d106261a08c429228f985b047154
+      internalID: -8719348419216529006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_22
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 6842
+        width: 248
+        height: 356
+      alignment: 9
+      pivot: {x: 0.7967244, y: 0.8900805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f42912815525e84dbf7c28d4800f20b
+      internalID: -919612456777567529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_23
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 6842
+        width: 252
+        height: 356
+      alignment: 9
+      pivot: {x: 0.80729747, y: 0.8850139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8411b37818e2148b528ccb7cd43a0e
+      internalID: -9082151698493000919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_24
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 6842
+        width: 252
+        height: 356
+      alignment: 9
+      pivot: {x: 0.82683355, y: 0.8744788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5294dd69e675c7d49953294f0c90b49a
+      internalID: 8151831507950847260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_25
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 6842
+        width: 260
+        height: 356
+      alignment: 9
+      pivot: {x: 0.82245815, y: 0.8710306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dc3d98e266d5d48aed4894887281ba
+      internalID: 6239318009989254899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 6342
+        width: 264
+        height: 352
+      alignment: 9
+      pivot: {x: 0.8252204, y: 0.87854004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ef9105b2bbafa4cb01242e51446ffe
+      internalID: 4190722465325344776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_27
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 6342
+        width: 268
+        height: 352
+      alignment: 9
+      pivot: {x: 0.82609284, y: 0.8717346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8267e25ddfe74e34f9aaa3454c3cbf56
+      internalID: -2698946903507791885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_28
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 6346
+        width: 272
+        height: 348
+      alignment: 9
+      pivot: {x: 0.84398425, y: 0.86349875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e81ac3c44c5bd4a9e4d364371f3c91
+      internalID: 5788972964281046101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_29
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 6346
+        width: 276
+        height: 348
+      alignment: 9
+      pivot: {x: 0.84698397, y: 0.8529207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86da765bbf649a448560bdb98c0d64f
+      internalID: -2617499937634743416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_30
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 6346
+        width: 280
+        height: 347
+      alignment: 9
+      pivot: {x: 0.8531686, y: 0.8410511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef33bc2b0b55f64dbb75ada3a661624
+      internalID: 2862740445927552072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_31
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 6347
+        width: 280
+        height: 343
+      alignment: 9
+      pivot: {x: 0.85930175, y: 0.85598266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23528ddb6425cd54bbcfdc88c70fbf54
+      internalID: -1622651577898616836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_32
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 6350
+        width: 280
+        height: 340
+      alignment: 9
+      pivot: {x: 0.8685948, y: 0.85103977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990028b3eb8843348aa81f6edd08edd1
+      internalID: -6947168610396503630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_33
+      rect:
+        serializedVersion: 2
+        x: 3566
+        y: 6354
+        width: 288
+        height: 336
+      alignment: 9
+      pivot: {x: 0.8651852, y: 0.8469718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100e3bc7bcffadf46a9deffb48d94028
+      internalID: 5708721734862022568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_34
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 5858
+        width: 284
+        height: 332
+      alignment: 9
+      pivot: {x: 0.8768011, y: 0.8364493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97414696bf81ba346802110fac57a9ee
+      internalID: 1029069448108623340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_35
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 5862
+        width: 292
+        height: 328
+      alignment: 9
+      pivot: {x: 0.878321, y: 0.8239731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75a87f046e8f314285a3eb572460b18
+      internalID: -735688751379885839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_36
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 5862
+        width: 292
+        height: 328
+      alignment: 9
+      pivot: {x: 0.877765, y: 0.82878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653c7e6bfa13f994cb2a8d8d1c47e392
+      internalID: 6854464307871288461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_37
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 5866
+        width: 292
+        height: 324
+      alignment: 9
+      pivot: {x: 0.8921308, y: 0.8266014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2d964d081de92418af9c56b55a6814
+      internalID: -8697789680353065083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_38
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 5870
+        width: 296
+        height: 320
+      alignment: 9
+      pivot: {x: 0.89356375, y: 0.8151352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fef592e40201f40a77c5a3fb76bc2e
+      internalID: 2213196352211987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_39
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 5874
+        width: 296
+        height: 316
+      alignment: 9
+      pivot: {x: 0.88932264, y: 0.81587625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f171d4110fd87f45b55b829a466fe07
+      internalID: 8087811942768302045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_40
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 5882
+        width: 296
+        height: 308
+      alignment: 9
+      pivot: {x: 0.9092127, y: 0.80060846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1051b00c5cec14ebf3a35ca9cc1ff3
+      internalID: 2395452955633464187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_41
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 5886
+        width: 296
+        height: 304
+      alignment: 9
+      pivot: {x: 0.91937256, y: 0.7948528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abf326f7f66d9943b9e9dcf671967e7
+      internalID: -8416165937279606423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 5410
+        width: 300
+        height: 296
+      alignment: 9
+      pivot: {x: 0.90940857, y: 0.80012965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b32c5324eb2e40438bd4c4f518acffd
+      internalID: -6306931408580403305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_43
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 5414
+        width: 300
+        height: 292
+      alignment: 9
+      pivot: {x: 0.9208675, y: 0.79004407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b6de60de199f546852cadc757e6ea3
+      internalID: -7963322543964223103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_44
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 5419
+        width: 296
+        height: 291
+      alignment: 9
+      pivot: {x: 0.9356096, y: 0.78798693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c18aca81cb1a0945b2e69929d0246e0
+      internalID: 4311966666186078425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_45
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 5426
+        width: 300
+        height: 284
+      alignment: 9
+      pivot: {x: 0.9317615, y: 0.7798264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27fd6db9710d234eb93010dc0024278
+      internalID: -8026803130479511991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_46
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 5434
+        width: 304
+        height: 276
+      alignment: 9
+      pivot: {x: 0.93730724, y: 0.77835214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299a23c3640d2bc4db9168ecb69954d2
+      internalID: -8291941851519631351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_47
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 5442
+        width: 304
+        height: 272
+      alignment: 9
+      pivot: {x: 0.94939303, y: 0.7713946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174e8f5b3b0aa15488af44e918f27e3d
+      internalID: 2425565034540621870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_48
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 5450
+        width: 304
+        height: 264
+      alignment: 9
+      pivot: {x: 0.9515911, y: 0.75304806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a978995c4e97e4f8c7abcd1c88204e
+      internalID: 544061897907025389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_49
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 5458
+        width: 308
+        height: 260
+      alignment: 9
+      pivot: {x: 0.96023047, y: 0.7410438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3942e80a01d88b543bab977c74847ac5
+      internalID: -6210443572916996357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_50
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 5466
+        width: 308
+        height: 252
+      alignment: 9
+      pivot: {x: 0.9583122, y: 0.7397984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7060f39d97975943a5bdff8dd0bea5b
+      internalID: 2141305005397873540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_51
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 5474
+        width: 308
+        height: 248
+      alignment: 9
+      pivot: {x: 0.97327214, y: 0.720459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117baed0206b30446bb9fb61ec3e2d4b
+      internalID: 256116534984672458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 5038
+        width: 312
+        height: 242
+      alignment: 9
+      pivot: {x: 0.95992005, y: 0.71304196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08c3ef1644530b47872b1a366923d01
+      internalID: 1221857536885375871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_53
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 5034
+        width: 316
+        height: 236
+      alignment: 9
+      pivot: {x: 0.95150566, y: 0.71418375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e2cf10c4aea66478052c299c13f3d2
+      internalID: 2990484629062012755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_54
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 5034
+        width: 320
+        height: 228
+      alignment: 9
+      pivot: {x: 0.95149577, y: 0.68321896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1612b9ef6a64547a657822d0bfa130
+      internalID: 4527994027243457497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_55
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 5034
+        width: 324
+        height: 220
+      alignment: 9
+      pivot: {x: 0.9441754, y: 0.66160554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a53205f28df0cf45a79292b371e6c81
+      internalID: -4216816417170168226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_56
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 5034
+        width: 324
+        height: 220
+      alignment: 9
+      pivot: {x: 0.9463659, y: 0.64054734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1369d4ac310e24581820af473565fa
+      internalID: 1474395801468598074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_57
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 5030
+        width: 332
+        height: 224
+      alignment: 9
+      pivot: {x: 0.93616015, y: 0.59757775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38714806b70144d42b8fa418c2bb0589
+      internalID: -5214060043812440509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_58
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 5030
+        width: 332
+        height: 220
+      alignment: 9
+      pivot: {x: 0.94076943, y: 0.5754705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4b35788d9a9df4ab0aba089e32c861
+      internalID: -2554545651512447822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_59
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 5030
+        width: 336
+        height: 216
+      alignment: 9
+      pivot: {x: 0.9393935, y: 0.5367974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c7afc83b93b2a49877ce0d056d4f72
+      internalID: -2452699325928834391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_60
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 5030
+        width: 340
+        height: 216
+      alignment: 9
+      pivot: {x: 0.9328319, y: 0.5083641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8701fbe4048484686794b6300c06a3
+      internalID: -482640039884341662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_61
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 5030
+        width: 344
+        height: 216
+      alignment: 9
+      pivot: {x: 0.9212363, y: 0.4707438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247666cefe5369247b2691bb691ec356
+      internalID: -6036401227977598250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_62
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 4594
+        width: 344
+        height: 212
+      alignment: 9
+      pivot: {x: 0.9314711, y: 0.43474996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b4b9c9bea6e414e9c04e98afd7b7d2
+      internalID: 8448035069864056416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_63
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 4594
+        width: 348
+        height: 212
+      alignment: 9
+      pivot: {x: 0.92006534, y: 0.39595002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa67c1089cd4e1c4b9ec62ac6c36c2fd
+      internalID: 8643348618770399146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_64
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 4598
+        width: 348
+        height: 208
+      alignment: 9
+      pivot: {x: 0.9209851, y: 0.36724618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a4facffb266894c99ea1b2373f5238
+      internalID: 4314872198158591755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_65
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 4598
+        width: 348
+        height: 208
+      alignment: 9
+      pivot: {x: 0.9155014, y: 0.35134888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7dc337d5261b44e9da9cf227654296
+      internalID: -5880746315894885030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_66
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 4598
+        width: 352
+        height: 208
+      alignment: 9
+      pivot: {x: 0.9101479, y: 0.34267953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322a23c00f5b36946bfa6659d0164a64
+      internalID: -3504400788904893595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_67
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 4598
+        width: 352
+        height: 207
+      alignment: 9
+      pivot: {x: 0.9147311, y: 0.3274362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7966a49b496a97e4b8613fff2f48c0f5
+      internalID: 3895634838636962275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_68
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 4598
+        width: 352
+        height: 205
+      alignment: 9
+      pivot: {x: 0.9104774, y: 0.3123404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7247cbbc4b6bc445a51856f682b2934
+      internalID: -5429115273444216461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_69
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 4598
+        width: 352
+        height: 204
+      alignment: 9
+      pivot: {x: 0.91282237, y: 0.30983362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2adba880e36f249b0a86b3cdc5f7bc
+      internalID: 7561209811726583253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_70
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 4134
+        width: 352
+        height: 204
+      alignment: 9
+      pivot: {x: 0.9023014, y: 0.27973968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bbcc0c4c9192742806f66d30c48d7a
+      internalID: 4065408841139857799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_71
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 4130
+        width: 352
+        height: 208
+      alignment: 9
+      pivot: {x: 0.9120504, y: 0.27036226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e782de4b3afee4ea8c85ff310e4809
+      internalID: -637836425661153681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_72
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 4130
+        width: 356
+        height: 206
+      alignment: 9
+      pivot: {x: 0.9022851, y: 0.26060233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f5a3c32cf021b45be246d0f159da74
+      internalID: 129510438946778497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_73
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 4126
+        width: 352
+        height: 208
+      alignment: 9
+      pivot: {x: 0.90606517, y: 0.26022103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fae2ce2708ef745b935a7988c16cd2
+      internalID: 7824864514910012292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_74
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 4122
+        width: 356
+        height: 214
+      alignment: 9
+      pivot: {x: 0.89445925, y: 0.25522736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85b0d041c5187246a7144f994ea05dd
+      internalID: 3115005066693832549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_75
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 4122
+        width: 352
+        height: 212
+      alignment: 9
+      pivot: {x: 0.90527415, y: 0.25686127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d92194dc76d6b4d89b4eea181475b2
+      internalID: -6215044422918782407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_76
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 4122
+        width: 356
+        height: 212
+      alignment: 9
+      pivot: {x: 0.89834905, y: 0.2439725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813741895477a9049b982995589439af
+      internalID: 555228472029521526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_77
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 4122
+        width: 356
+        height: 212
+      alignment: 9
+      pivot: {x: 0.898659, y: 0.24925606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72523e183ab223c4ca79b9802a65787b
+      internalID: -5891999170675685882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_78
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3642
+        width: 356
+        height: 216
+      alignment: 9
+      pivot: {x: 0.90625936, y: 0.25392208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30be39b7b066e3c4788624d8110f96d9
+      internalID: 2488946714651262705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_79
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 3642
+        width: 356
+        height: 216
+      alignment: 9
+      pivot: {x: 0.904629, y: 0.24747382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a12f454794ea644cac62f1cde01931e
+      internalID: -5211252420703942695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_80
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 3642
+        width: 356
+        height: 216
+      alignment: 9
+      pivot: {x: 0.8988305, y: 0.24331665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8effb91c177ba34095c628ca4a93cb9
+      internalID: -7054380317615166146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_81
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 3642
+        width: 356
+        height: 215
+      alignment: 9
+      pivot: {x: 0.89967674, y: 0.23694018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb244a920a9281a4ebc672f0a0c93cd0
+      internalID: -4301148132866530289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_82
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 3642
+        width: 352
+        height: 216
+      alignment: 9
+      pivot: {x: 0.9026399, y: 0.24001397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf597680cc959449ba905da7558f98a
+      internalID: 7496413089381570095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_83
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 3642
+        width: 356
+        height: 216
+      alignment: 9
+      pivot: {x: 0.89969933, y: 0.24272212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df545d25d8cd924e842d9ed34c9fb54
+      internalID: 2940814592083742113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_84
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 3642
+        width: 356
+        height: 216
+      alignment: 9
+      pivot: {x: 0.9032517, y: 0.24311094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884c34f659dd417459afb79b2b1235de
+      internalID: 4945384536293209093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_85
+      rect:
+        serializedVersion: 2
+        x: 3426
+        y: 3642
+        width: 352
+        height: 216
+      alignment: 9
+      pivot: {x: 0.90272176, y: 0.24190606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998b6ce10c0fab847b2842ef8073b93f
+      internalID: -3517983138613711177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_86
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3158
+        width: 352
+        height: 219
+      alignment: 9
+      pivot: {x: 0.9017349, y: 0.24643041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1439082ed1d20b447acad8efb3233b79
+      internalID: -9144883390195550110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_87
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3158
+        width: 356
+        height: 220
+      alignment: 9
+      pivot: {x: 0.90497595, y: 0.24496515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e57900bffd6a1429f88b7090715cac
+      internalID: 8692931527351578978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_88
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 3158
+        width: 356
+        height: 216
+      alignment: 9
+      pivot: {x: 0.8940752, y: 0.24345003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356a16cd18dc00048aceaff660444cb3
+      internalID: 8379062665818308390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_89
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 3158
+        width: 356
+        height: 216
+      alignment: 9
+      pivot: {x: 0.90320784, y: 0.25049055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c617aca653ec17468235014ea9012a6
+      internalID: -9017751898988927140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_90
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 3158
+        width: 352
+        height: 216
+      alignment: 9
+      pivot: {x: 0.9001763, y: 0.23529166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d90f9b63bb07484eb069f8660ad57e6
+      internalID: -7177921277881741908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_91
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 3158
+        width: 352
+        height: 216
+      alignment: 9
+      pivot: {x: 0.89804006, y: 0.24544045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0539c2a8f33d21b40a5ad75d333d2513
+      internalID: 3227198780228373110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_92
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 3154
+        width: 356
+        height: 223
+      alignment: 9
+      pivot: {x: 0.8939874, y: 0.2502923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f48bc9e512f04644bfcd72c608808d2
+      internalID: 3390595251386524595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_93
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 3154
+        width: 356
+        height: 222
+      alignment: 9
+      pivot: {x: 0.9001897, y: 0.25670177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ff0b2072cd4e346bb3bb91a6d4723c
+      internalID: -7150430346093022330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_94
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2670
+        width: 356
+        height: 220
+      alignment: 9
+      pivot: {x: 0.8945878, y: 0.25633433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79436eb099e97ec4aa0f6b887a98c1e8
+      internalID: -7947212731782568885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_95
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2670
+        width: 356
+        height: 224
+      alignment: 9
+      pivot: {x: 0.896751, y: 0.2488229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d241094c801c7b84582c754c5df7f0b9
+      internalID: 2915155621668669079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_96
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2670
+        width: 356
+        height: 220
+      alignment: 9
+      pivot: {x: 0.8976982, y: 0.23635253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce1dab0779547743b6cb223afd318a5
+      internalID: -3859235573153553734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_97
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2690
+        width: 352
+        height: 200
+      alignment: 9
+      pivot: {x: 0.9040548, y: 0.2745154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf24d0a6edb17645bdedf69859fd87e
+      internalID: -7639692098514932580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_98
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 2682
+        width: 344
+        height: 212
+      alignment: 9
+      pivot: {x: 0.9250964, y: 0.43718562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dececeacf627e4981cbc9beb175f90
+      internalID: -5342958621844442164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_99
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 2682
+        width: 336
+        height: 220
+      alignment: 9
+      pivot: {x: 0.9397772, y: 0.5482777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dd16fa2d8c5794f9db7e0c83497822
+      internalID: -1764004164289630317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_100
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 2686
+        width: 324
+        height: 220
+      alignment: 9
+      pivot: {x: 0.9485715, y: 0.6558472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc4707c8b293a24b9a5e6450cb4cb10
+      internalID: -8542012808447583844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_101
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 2690
+        width: 312
+        height: 244
+      alignment: 9
+      pivot: {x: 0.9629071, y: 0.71886206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda7af952ef7965479bdb5816b32defa
+      internalID: -4888253863955259396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_102
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 2602
+        width: 292
+        height: 316
+      alignment: 9
+      pivot: {x: 0.9038211, y: 0.81318915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44d673f8b67c7743bab8753413f3a30
+      internalID: -9209417794955730850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_103
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2086
+        width: 264
+        height: 352
+      alignment: 9
+      pivot: {x: 0.8252041, y: 0.8779484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fef671d7bb436c4295572f5ed74270e
+      internalID: 5586368927235391121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_104
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2110
+        width: 204
+        height: 348
+      alignment: 9
+      pivot: {x: 0.6652105, y: 0.92001235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff8df0c4dacfa24080db811a9c03a29
+      internalID: 4128045513085725138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_105
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 2154
+        width: 288
+        height: 300
+      alignment: 9
+      pivot: {x: 0.20172967, y: 0.92690265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79808f4f9c091e04cb8fb1d4e3718915
+      internalID: -4832685531041329899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_106
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 2126
+        width: 324
+        height: 296
+      alignment: 9
+      pivot: {x: 0.16085778, y: 0.88643914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1967367bff70084ca06b65bebb04b04
+      internalID: -1282385407470249103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_107
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 2126
+        width: 327
+        height: 292
+      alignment: 9
+      pivot: {x: 0.15200964, y: 0.88129747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac66986835f87e4e9cc38582bdf93cb
+      internalID: -1855200364657007648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_108
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 2122
+        width: 328
+        height: 292
+      alignment: 9
+      pivot: {x: 0.15337688, y: 0.8783904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f9ccf31dc08d5479bf0d259aa04bcd
+      internalID: 2535726887266183952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_109
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 2122
+        width: 332
+        height: 288
+      alignment: 9
+      pivot: {x: 0.15561537, y: 0.87428623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015dd405895416d4e8e523ba1daf1314
+      internalID: -865076956317547075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_110
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 2134
+        width: 316
+        height: 296
+      alignment: 9
+      pivot: {x: 0.18292545, y: 0.8928487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76b70b6261908b4db87317529c25355
+      internalID: -7817546641477725873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_111
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1646
+        width: 292
+        height: 300
+      alignment: 9
+      pivot: {x: 0.19283791, y: 0.920684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb28a3336b9cac488ddd84b67e1ba6d
+      internalID: 2555509454216210555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_112
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1658
+        width: 280
+        height: 300
+      alignment: 9
+      pivot: {x: 0.20790188, y: 0.9309481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4321c78f077a9d499cd3d9660d137cd
+      internalID: 8434905896310403359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_113
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1662
+        width: 268
+        height: 304
+      alignment: 9
+      pivot: {x: 0.23051225, y: 0.94461423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440ded429d2ab4a409d0aeff87e99724
+      internalID: 4455248877271568728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_114
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1670
+        width: 256
+        height: 308
+      alignment: 9
+      pivot: {x: 0.25982285, y: 0.9581453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b4a56059193484aa7b8f0f5412afd1
+      internalID: 4606463325173342135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_115
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1674
+        width: 252
+        height: 308
+      alignment: 9
+      pivot: {x: 0.2721451, y: 0.95889956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad4959e84577c446a38c5bac559d37b
+      internalID: -7301557362720007508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetGolpePelota_116
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 1678
+        width: 248
+        height: 308
+      alignment: 9
+      pivot: {x: 0.2792004, y: 0.9611725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ea309117b0f3640919d8950e9e31c2
+      internalID: 3367500197349563066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
